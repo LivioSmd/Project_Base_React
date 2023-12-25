@@ -4,7 +4,6 @@ import './Catalogue.css';
 const Catalogue = () => {
     return (
         <div>
-            
         </div>
     );
 };
