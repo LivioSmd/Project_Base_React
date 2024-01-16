@@ -12,6 +12,6 @@ This project generates a pre-configured react work environment
 
 Server active on port -> [3000](http://localhost:3000/) <-
 
-![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+![image]({https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white})
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
