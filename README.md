@@ -1,6 +1,6 @@
 # Getting Started 
 
-npm install React.
+npm install React
 
 npm start
 
