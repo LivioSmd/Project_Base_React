@@ -4,7 +4,7 @@ This project generates a pre-configured react work environment
 
 ## Installation
 
-1. Clone this repository : `https://github.com/LivioSmd/Project_Base_React.git`
+1. Clone this repository : `git clone https://github.com/LivioSmd/Project_Base_React.git`
 
 2. Install React : `npm install react`
 
